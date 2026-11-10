@@ -2,7 +2,7 @@
   {
     "id": 1,
     "active": true,
-    "outOfStock": false,
+    "outOfStock": true,
     "title": "Petardo Trueno Cobra Extra Fuerte - Caja x 20 Unidades",
     "category": "birthday",
     "categoryLabel": "Petardos y Cañones",
